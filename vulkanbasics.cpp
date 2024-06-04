@@ -1,7 +1,3 @@
-#include<iostream>
-#include<optional>
+#include <GLFW/glfw3.h>
 
-int main(){
-    std::optional<int> x=9;
-    std::cout<<*x;
-}
+int main(){}
