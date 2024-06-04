@@ -1,6 +1,3 @@
 .cache
 .git
 .clangd
-.subprojects/glfw-3.3.10
-.subprojects/Vulkan-Headers-1.3.2
-.subprojects/packagecache
